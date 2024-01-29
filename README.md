@@ -19,6 +19,6 @@ Requirements
 
 Usage
 ========================
-1.Run ResGCN/SNF.py to generate the patient similarity network,run ResGCN/TRAIN.py to train ResGCN and extract hidden layer feature representations.\n
-2.Run CNN/clin.py,CNN/CNV.py,CNN/mRNA.py to train CNNs and extract hidden layer feature representations.\n
+1.Run ResGCN/SNF.py to generate the patient similarity network,run ResGCN/TRAIN.py to train ResGCN and extract hidden layer feature representations.
+2.Run CNN/clin.py,CNN/CNV.py,CNN/mRNA.py to train CNNs and extract hidden layer feature representations.
 3.Run AdaBoostRF.py for survival prediction.
