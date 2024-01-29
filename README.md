@@ -15,11 +15,8 @@ Requirements
     [torchaudio 0.10.0]
     [torchtuples 0.2.2]
     [torchvision 0.11.0]
+    [snfpy 0.2.2]
 
-
-
-
-    [scikit-learn 0.18]
 Usage
 ========================
 1.Run ResGCN/SNF.py to generate the patient similarity network,run ResGCN/TRAIN.py to train ResGCN and extract hidden layer feature representations.
